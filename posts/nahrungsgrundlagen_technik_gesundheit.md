@@ -31,11 +31,10 @@ In der Frühlingszeit wurden viele Beeren, Kräuter und Schnecken gesammelt, die
 ![](../images/familie.png)
 *Neujahrsblatt der Zürcherischen Hülfsgesellschaft von 1817: Eine hungernde Familie erwartet den mit Essen heimkehrenden Vater.*
 
-
 ## Nervenfieber
 
-Das Volk litt unter ungesunder Nahrung, an dem regelmässigen Witterungswechsel sowie an Veränderungen der Luft. Dadurch kam eine Seuche hervor, das sogenannte Nervenfieber. Sehr viele Menschen mussten unter den Folgen dieser Krankheit leiden. Die jungen Leute konnten im Gegensatz zu Älteren sehr viel ertragen. Um gegen die Seuche standzuhalten, benutzten viele Menschen Sicherungsmittel und in Krankehäusern wurden Essigdämpfe eingestzt. Leute auf dem Land wurden deutlich vernachlässigt und somit verstarb eine grosse Menge an Bürgern.
+Das Volk litt unter ungesunder Nahrung, an dem regelmässigen Witterungswechsel sowie an Veränderungen der Luft. Dadurch kam eine Seuche hervor, das sogenannte Nervenfieber. Sehr viele Menschen mussten unter den Folgen dieser Krankheit leiden. Die jungen Leute konnten im Gegensatz zu Älteren sehr viel ertragen. Um gegen die Seuche standzuhalten, benutzten viele Menschen Sicherungsmittel. In Krankenhäuser wurden Essigdämpfe eingesetzt. Leute auf dem Land wurden deutlich vernachlässigt und somit verstarb eine grosse Menge an Bürgern.
 
-![](../images/Das_schreckliche_Nervenfieber_1814.jpg)
+![Nervengift](../images/Das_schreckliche_Nervenfieber_1814.jpg)
 
 *Illustration zum schrecklichen Nervenfieber*

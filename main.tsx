@@ -10,7 +10,7 @@ blog({
   // section: <section>Your custom section</section>,
   footer: <Footer author="Luis Gjokaj, Gian Federspiel, Philipp Sen, Malcolm Green, Rouven Hänggi"></Footer>,
   //coverTextColor : "White",
-  style: "li { list-style: square;}",
+  style: "@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap'); li { list-style: square;} h3 a { font-family: 'Moon Dance'; }",
   avatarClass: "rounded-full",
   cover: "https://github.com/RoeHH/IDAF-GP-DE/blob/master/cover.png?raw=true",
   dateStyle: "long",

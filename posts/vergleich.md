@@ -1,7 +1,7 @@
 ---
-title: Das Jahr ohne Sommer im vergelich zu heute? 
+title: Das Jahr ohne Sommer im Vergleich zu heute
 publish_date: 2023-01-08
-snippet: Ist die Hungersnot der Jahre 1816/17 mit Heutigen Hungersnöten Vergleichbar?
+snippet: Ist die Hungersnot der Jahre 1816/17 mit heutigen Hungersnöten vergleichbar?
 ---
 
 Als erstes Definieren wir, was eine Hungersnot ist, um dann die sogenannte Hungersnot von 1816/17 mit heutigen Hungersnöten vergleichen zu können. Die Definition einer Hungersnot entnehmen diese der IPC-Skala, diese ist dient uns als Anhalts Punkt, um Hungersnöte zu definieren. Sobald ein Land oder eine Region in dieser Skala die Stufe fünf erreicht hat, kann man von einer Hungersnot sprechen. Die Stufe fünf hat ein Land dann erreicht, wenn über 20% der Haushalte einen völligen Mangel an Nahrungsmitteln haben, über 30% an Unterernährung leiden und pro Tag 2 von 10’000 an den Folgen der Unterernährung erlegen.

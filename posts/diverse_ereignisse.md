@@ -1,7 +1,7 @@
 ---
 title: Relevante Ereignisse und Personen
 publish_date: 2023-01-08
-snippet: Was sind die relevanten Ereignisse oder Personen rund um die Hungersnot
+snippet: Das sind die relevanten Ereignisse oder Personen rund um die Hungersnot.
 ---
 
 # Relevante Ereignisse und Personen

@@ -1,7 +1,7 @@
 ---
 title: Wirtschaft, Erwerb und Sozialpolitik
 publish_date: 2023-01-08
-snippet: Übervölkerung, Erwerbsarbeit, Teuerung und das soziale Miteinander
+snippet: Übervölkerung, Erwerbsarbeit, Teuerung und das soziale Miteinandersein
 ---
 
 # Wirtschaft, Erwerb und Sozialpolitik

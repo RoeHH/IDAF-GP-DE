@@ -1,7 +1,7 @@
 ---
-title: Voraussetzungen für eine Hungersnot und ist sie vergleichbar mit heutigen Hungersnöte
+title: Voraussetzungen für eine Hungersnot
 publish_date: 2023-01-08
-snippet: Wie kann eine Land bzw. Region heute noch in eine Hungersnot stürzen und ist die Hungersnot der Jahre 1816/17 mit heutigen Hungersnöten vergleichbar?
+snippet: Wie kann eine Land bzw. eine Region heute noch in ein Hungersnot stürzen und ist die Hungersnot der Jahre 1816/17 mit heutigen Hungersnöten vergleichbar?
 ---
 
 # Voraussetzungen für eine Hungersnot und ist sie vergleichbar mit heutigen Hungersnöten?

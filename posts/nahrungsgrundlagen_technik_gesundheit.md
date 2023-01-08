@@ -1,7 +1,7 @@
 ---
 title: Nahrungsgrundlagen und Gesundheit
 publish_date: 2023-01-08
-snippet: Was assen die Leute während der Hungersnot und wie ging es ihnen um diese Zeit
+snippet: Was assen die Leute während der Hungersnot und wie ging es ihnen während dieser Zeit?
 ---
 
 # Nahrungsgrundlagen und Gesundheit

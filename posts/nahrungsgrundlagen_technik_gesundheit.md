@@ -7,25 +7,26 @@ snippet: Was assen die Leute während der Hungersnot und wie ging es ihnen währ
 # Nahrungsgrundlagen und Gesundheit
 
 ## Die Rumfordische Suppenausteilung
-Die Austeilung von Suppe find im November an. Die Suppe wurde nach Rumford benannt. Der König machte  Rumford zum Ritter, da er im Krieg gegen Amerika viele Kenntnisse bewies. 
+
+Die Austeilung von Suppe fing im November 1816 an. Die Suppe wurde nach Rumford benannt. Der König machte Rumford zum Ritter, da er im Krieg gegen Amerika viele Kenntnisse bewies.
 
 ![Rumford](../images/Rumford.jpg)
 
 *Benjamin Thompson Reichsgraf von Rumford*
 
-Die Suppe bestand aus Erbsen, Gerste, Kartoffeln, Essig und Salz und wurde in den Hungerjahren besonders wichtig. Die Rumfordische Suppe wurde allen Betllern in Zwangsarbeitsanstalten ausgeschöpft. Der Erlös aus den Arbeiten in den Zwangsarbeitsanstalten kam der Anstalt zugute, reichte aber lange nicht aus. Lügende und Faule bettler wurden sehr hart und skrupellos behandelt. verwundete wurden in der Medizinanstalt betreut
+Die Suppe bestand aus Erbsen, Gerste, Kartoffeln, Essig und Salz und wurde in den Hungerjahren besonders wichtig. Die Rumfordische Suppe wurde allen Bettlern in Zwangsarbeitsanstalten ausgeschöpft. Der Erlös aus den Arbeiten in den Zwangsarbeitsanstalten kam der Anstalt zugute, reichte aber nicht lange aus. Lügende und faule Bettler wurden sehr hart und skrupellos behandelt. Verwundete wurden in der Medizinanstalt betreut.
 
 ![Rezept](../images/Rumford_Suppe.jpg)
 
 *Zeitgenössisches Rezept zur Rumfordsuppe*
 
-Leider Gab es auch in diesen Anstalten zu wenig Arbeit und schlechter Lohn. Das Futter und Heu wurde knapp, da immer mehr Schnee fiel und die Vorräte zu Ende gingen. Bald wurde nicht mehr die Leute, sondern nur noch an die Tiere gedacht.
+Leider gab es auch in diesen Anstalten zu wenig Arbeit und schlechter Lohn. Das Futter und Heu wurde knapp, da immer mehr Schnee fiel und die Vorräte zu Ende gingen. Bald wurde nicht mehr an die Leute, sondern nur noch an die Tiere gedacht.
 
-In der Frühlingszeit wurden viele Beeren, Kräuter und Schnecken gesammelt, die aber nicht viel nährten. Es wurde alles gegessen, was man früher nicht mal den Schweinen zum Essen gab. Sogar Blut wurde von der Metzgerei geholt und verzehrt. Die rumfordische Suppe wurde mithilfe des papinischen Topfs, für die Armen verbessert. Mit diesem Topf konnten Knochen und Elfenbein erweicht werden. Durch diese Erfindung kamen weitere Essensquellen auf.
+In der Frühlingszeit wurden viele Beeren, Kräuter und Schnecken gesammelt, die aber nicht viel nährten. Es wurde alles gegessen was man früher nicht mal den Schweinen zum Essen gab. Sogar Blut wurde von der Metzgerei geholt und verzehrt. Die Rumfordische Suppe wurde mithilfe des papinischen Topfes für die Armen verbessert. Mit diesem Topf konnten Knochen und Elfenbein erweicht werden. Durch diese Erfindung kamen weitere Essensquellen auf.
 
 ## Hundshunger
 
-"Ein Schumacher war auf seiner Arbeit vor Müdikeit plötzlich zusammengesackt", so könnte es in der Zeitung stehen. Der Mann hatte Hundshunger, ein Hunger, der seinem grässlichen Name alle Ehre machte. Die wenige Nahrung, die er bekommen konnte, verschlang er mit einer Gierigkeit, für die er sich selbst schämte.
+"Ein Schumacher war auf seiner Arbeit vor Müdikeit plötzlich zusammengesackt", so könnte es in der Zeitung stehen. Der Mann hatte Hundshunger. Ein Hunger, der seinem grässlichen Name alle Ehre machte. Die wenige Nahrung, die er bekommen konnte verschlang er mit einer Gierigkeit, für die er sich selbst schämte.
 
 ![](../images/familie.png)
 *Neujahrsblatt der Zürcherischen Hülfsgesellschaft von 1817: Eine hungernde Familie erwartet den mit Essen heimkehrenden Vater.*

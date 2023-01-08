@@ -12,5 +12,6 @@ Nach den Beschreibungen von Peter Schetilin Lied der Grossteil der Bevölkerung 
 
 Quellen:
 
-[Integrated Food Security Phase Classification](https://www.fao.org/3/i0275e/i0275e.pdf) -- Seite 13
+[Integrated Food Security Phase Classification -- Seite 13](https://www.fao.org/3/i0275e/i0275e.pdf)
+
 [technik.geschichte-schweiz.ch](http://technik.geschichte-schweiz.ch/industrialisierung-schweiz.html#Massenarmut)

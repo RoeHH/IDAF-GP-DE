@@ -10,7 +10,7 @@ blog({
   // section: <section>Your custom section</section>,
   footer: <Footer author="Luis Gjokaj, Gian Federspiel, Philipp Sen, Malcolm Green, Rouven Hänggi"></Footer>,
   //coverTextColor : "White",
-  //style: "p a { display: none; } p a:after { conent: `sdf`; } ",
+  style: "li { list-style: square;}",
   avatarClass: "rounded-full",
   cover: "https://github.com/RoeHH/IDAF-GP-DE/blob/master/cover.png?raw=true",
   dateStyle: "long",

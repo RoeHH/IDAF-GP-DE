@@ -4,9 +4,9 @@ publish_date: 2023-01-08
 snippet: Das sind die relevanten Ereignisse oder Personen rund um die Hungersnot.
 ---
 
-# Relevante Ereignisse und Personen
+## Relevante Ereignisse und Personen
 
-## Die Baronin von Kruderer
+### Die Baronin von Kruderer
 
 Die Baronin von Krudener, auch bekannt als Juliana von Krudener, war eine russische Adlige und
 Mystikerin, die im 19. Jahrhundert lebte. Sie wurde 1764 in Riga, Lettland, geboren und stammte aus
@@ -21,7 +21,6 @@ waren sehr populär. Sie reiste viel und hielt Predigten in ganz Europa, darunte
 Österreich, Frankreich und Italien.
 
 ![Dia Baronin von Kruderer](../images/Baronin.jpg)
-
 *Juliane von Krüdner und ihr Sohn Paul*
 
 Im Jahr 1816, während der Hungersnot, teilte die Baronin von Krudener ihr gesamtes Vermögen
@@ -33,9 +32,9 @@ nutzte sie die Gelegenheit, um vor Tausenden ihre religiösen Ideen zu verkünde
 Massen derart, dass sie sowohl aus Süddeutschland als auch aus Basel als subversiv für das Land
 betrachtet wurde und unter polizeilicher Aufsicht nach Russland deportiert wurde. Nach ihrer
 Ankunft in Russland im Jahr 1818 versuchte sie, Einfluss auf den Zaren zu nehmen, der jedoch
-inzwischen von ihr abgerückt war und sie nicht mehr empfing. Sie starb im Dezember 1824 im Krim. 
+inzwischen von ihr abgerückt war und sie nicht mehr empfing. Sie starb im Dezember 1824 im Krim.
 
-## Welche Katastrophen tauchten weiterhin auf?
+### Welche Katastrophen tauchten weiterhin auf?
 
 Die Hungersnot, die 1817 in der Schweiz wütete, war bereits schlimm genug. Sie wurde aber noch
 schlimmer. Im Winter desselben Jahres brachen Lawinen aus, die Tannen- und Buchenwälder
@@ -55,5 +54,9 @@ wurde, hinterliess tiefe Spuren in der Geschichte des Landes und zeigt, wie schw
 gegen die Naturgewalten zu behaupten.
 
 ![seekatastrophe](../images/seekatstrophe.jpeg)
-
 *Seekatastrophe an Weihnachten*
+
+### Quellen:
+
+- <https://de-academic.com/dic.nsf/dewiki/141640>
+- <https://daten.digitale-sammlungen.de/0001/bsb00016330/images/index.html?seite=111>

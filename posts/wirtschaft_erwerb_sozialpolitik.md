@@ -4,9 +4,9 @@ publish_date: 2023-01-08
 snippet: Übervölkerung, Erwerbsarbeit, Teuerung und das soziale Miteinandersein
 ---
 
-# Wirtschaft, Erwerb und Sozialpolitik
+## Wirtschaft, Erwerb und Sozialpolitik
 
-## Unterschied Übervölkerung, damals und heute
+### Unterschied Übervölkerung, damals und heute
 
 Die Überbevölkerung heute im Vergleich zum 19. Jahrhundert ist ein weit verbreitetes Problem, das
 sich auf viele Länder auswirkt. Es gibt jedoch einige wichtige Unterschiede zwischen der
@@ -32,15 +32,15 @@ Bevölkerungskontrolle. Heute gibt es jedoch in vielen Ländern Programme und Ma
 die darauf abzielen, das Bevölkerungswachstum zu verlangsamen oder sogar zu verringern,
 indem sie die Geburtenkontrolle fördern und Bildungsprogramme anbieten.
 
-## Wovon lebten die Leute?
+### Wovon lebten die Leute?
 
 Im 19. Jahrhundert lebten die Menschen in der Schweiz hauptsächlich von Landwirtschaft, Handwerk
 und Handel. Die Landwirtschaft war zu dieser Zeit eine wichtige Quelle für Nahrungsmittel und
 Einkommen. Die Handwerksbetriebe produzierten eine Vielzahl von Gütern, wie beispielsweise
 Textilien, Schuhe und Möbel. Der Handel spielte ebenfalls eine wichtige Rolle, indem man Güter von
-einem Ort zum anderen transportierte und vertrieb. 
+einem Ort zum anderen transportierte und vertrieb.
 
-## Was versteht man im 19. Jahrhundert unter Teuerung und warum trat Sie auf? 
+### Was versteht man im 19. Jahrhundert unter Teuerung und warum trat Sie auf?
 
 Teuerung im 19. Jahrhundert bezieht sich auf die allgemeine Preiserhöhung, die in einer Wirtschaft
 auftritt. Dies kann dazu führen, dass die Lebenshaltungskosten für die Menschen steigen und dass
@@ -53,7 +53,7 @@ auftreten konnte, wie beispielsweise:
   
 - Inflation: Die Inflation ist ein allgemeiner Preisanstieg, der durch eine Erhöhung der Geldmenge verursacht werden kann.
 
-## Wie halfen sich die Menschen während der Hungersnot
+### Wie halfen sich die Menschen während der Hungersnot
 
 Die Hungersnot traf insbesondere Menschen, die in ländlichen Gebieten lebte. Die Menschen
 mussten sich auf verschiedene Weise selbst helfen, um zu überleben und ihre Familien zu ernähren.
@@ -69,3 +69,17 @@ und Löwenzahn, um sie als Nahrungsmittel zu verwenden.
 
 - Nahrungsmittel tauschen: Manche Menschen tauschten Nahrungsmittel, die sie selbst
 angebaut hatten, gegen andere Lebensmittel, die sie brauchten.
+
+### Gab es auch Hungertote in der Innerschweiz?
+
+Ja gab es, jedoch gibt es keine genauen Aufzeichnungen darüber, wie viele Menschen in der
+Innerschweiz während der Hungersnot 1817 gestorben sind.
+
+### Quellen:
+
+- <https://hls-dhs-dss.ch/de/articles/007987/2010-05-21/>
+- <http://www.hoepflinger.com/fhtop/BevoelkerungswandelCH.pdf>
+- <https://hls-dhs-dss.ch/de/articles/013954/2018-01-25/>
+- <https://hls-dhs-dss.ch/de/articles/013933/2007-11-19/>
+- <https://hls-dhs-dss.ch/de/articles/013660/2008-08-19/>
+- <https://heimatmuseum.ch/fileadmin/user_upload/PDF/2016/Hungerkrise-1816.pdf>

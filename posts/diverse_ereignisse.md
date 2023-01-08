@@ -41,7 +41,7 @@ Die Hungersnot, die 1817 in der Schweiz wütete, war bereits schlimm genug. Sie 
 schlimmer. Im Winter desselben Jahres brachen Lawinen aus, die Tannen- und Buchenwälder
 zerstörten und sogar ganze Häuser samt ihren Ställen voller Gras und Vieh begraben. Die Lawinen
 vernichteten auch Ernten von Obst und Gemüse, was die Not der hungernden Bevölkerung noch
-vergrößerte.
+vergrösserte.
 
 Das Jahr 1816 hatte bereits Hagelschäden gebracht, die die Ernten zerstörten und dazu führten, dass
 im Jahr darauf noch mehr Menschen hungern mussten.
@@ -51,7 +51,7 @@ Ufer traten. Diese Überschwemmungen wurden verursacht durch die ungewöhnlich w
 Witterung, die dazu führte, dass Gletscher schmolzen und Wasser in die Flüsse leiteten.
 Es war eine Zeit voller Leiden und Elend in der Schweiz, und die Menschen waren gezwungen, alle
 Kräfte zu mobilisieren, um zu überleben. Die Hungersnot, die von anderen Katastrophen begleitet
-wurde, hinterließ tiefe Spuren in der Geschichte des Landes und zeigt, wie schwer es sein kann, sich
+wurde, hinterliess tiefe Spuren in der Geschichte des Landes und zeigt, wie schwer es sein kann, sich
 gegen die Naturgewalten zu behaupten.
 
 ![seekatastrophe](../images/seekatstrophe.jpeg)

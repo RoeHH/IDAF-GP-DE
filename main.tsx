@@ -13,6 +13,8 @@ blog({
   // style: ".bg-no-repeat { opacity: 0.5; } header h1 { opacity: 1 } header p { opacity: 1 }",
   avatarClass: "rounded-full",
   cover: "https://github.com/RoeHH/IDAF-GP-DE/blob/master/cover.png?raw=true",
+  dateStyle: "long",
+  lang: "de",
     // middlewares: [
 
     // If you want to set up Google Analytics, paste your GA key here.

@@ -1,6 +1,6 @@
 ---
 title: Das Jahr ohne Sommer im vergelich zu heute? 
-publish_date: 2023-08-01
+publish_date: 2023-01-08
 snippet: Ist die Hungersnot der Jahre 1816/17 mit Heutigen Hungersnöten Vergleichbar?
 ---
 

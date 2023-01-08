@@ -1,18 +1,19 @@
 /** @jsx h */
 
 import blog, { ga, redirects, h } from "blog";
+import Footer from "./footer.tsx";
 
-blog({
+blog({  
   title: "Das Jahr ohne Sommer",
-  description: "berichte und erzählungen aus dem Jahr ohne Sommer.",
-  // header: <header>Your custom header</header>,
+  description: "Berichte und Erzählungen aus dem Jahr ohne Sommer.",
+// header: <Header></Header>,
   // section: <section>Your custom section</section>,
-  // footer: <footer>Your custom footer</footer>,
-  avatar: "https://www.vn.at/2019/07/dieser-hungertaler-erinnert-an-die-hunge.jpg",
+  footer: <Footer author="Luis Gjokaj, Gian Federspiel, Philip Sen, Green Malcolm, Rouven Hänggi"></Footer>,
+  //coverTextColor : "White",
+  // style: ".bg-no-repeat { opacity: 0.5; } header h1 { opacity: 1 } header p { opacity: 1 }",
   avatarClass: "rounded-full",
-  author: "Luis Gjokaj, Gian Federspiel, Philip Brüetsch, Ander Bro, Rouven Hänggi",
-
-  // middlewares: [
+  cover: "https://github.com/RoeHH/IDAF-GP-DE/blob/master/cover.png?raw=true",
+    // middlewares: [
 
     // If you want to set up Google Analytics, paste your GA key here.
     // ga("UA-XXXXXXXX-X"),

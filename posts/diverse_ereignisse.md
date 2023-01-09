@@ -6,7 +6,7 @@ snippet: Das sind die relevanten Ereignisse oder Personen rund um die Hungersnot
 
 ## Relevante Ereignisse und Personen
 
-### Die Baronin von Kruderer
+### Die Baronin von Krüderer
 
 Die Baronin von Krudener, auch bekannt als Juliana von Krudener, war eine russische Adlige und
 Mystikerin, die im 19. Jahrhundert lebte. Sie wurde 1764 in Riga, Lettland, geboren und stammte aus

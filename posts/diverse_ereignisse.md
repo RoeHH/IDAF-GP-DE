@@ -6,24 +6,24 @@ snippet: Das sind die relevanten Ereignisse oder Personen rund um die Hungersnot
 
 ## Relevante Ereignisse und Personen
 
-### Die Baronin von Krüderer
+### Die Baronin von Krüdener
 
-Die Baronin von Krudener, auch bekannt als Juliana von Krudener, war eine russische Adlige und
+Die Baronin von Krüdener, auch bekannt als Juliana von Krüdener, war eine russische Adlige und
 Mystikerin, die im 19. Jahrhundert lebte. Sie wurde 1764 in Riga, Lettland, geboren und stammte aus
 einer wohlhabenden und einflussreichen Familie.
 
-Juliana von Krudener war eine tiefgläubige Christin. Sie war bekannt dafür, dass sie Visionen hatte
+Juliana von Krüdener war eine tiefgläubige Christin. Sie war bekannt dafür, dass sie Visionen hatte
 und sich in ihren Predigten auf diese Visionen stützte. Sie trat auch als Autorin auf und verfasste
 mehrere Bücher über ihre spirituellen Erfahrungen und ihre Visionen.
 
-Juliana von Krudener wurde von vielen Menschen als Heilige verehrt und ihre Predigten und Bücher
+Juliana von Krüdener wurde von vielen Menschen als Heilige verehrt und ihre Predigten und Bücher
 waren sehr populär. Sie reiste viel und hielt Predigten in ganz Europa, darunter in Deutschland,
 Österreich, Frankreich und Italien.
 
-![Dia Baronin von Kruderer](../images/Baronin.jpg)
-*Juliane von Krüdner und ihr Sohn Paul*
+![Dia Baronin von Krüdener](../images/Baronin.jpg)
+*Juliane von Krüdener und ihr Sohn Paul*
 
-Im Jahr 1816, während der Hungersnot, teilte die Baronin von Krudener ihr gesamtes Vermögen
+Im Jahr 1816, während der Hungersnot, teilte die Baronin von Krüdener ihr gesamtes Vermögen
 unter den Armen auf und machte ihr Landhaus in Württemberg zu einem spirituellen Zentrum. Von
 dort aus reiste sie in den Jahren 1816 bis 1818 durch Baden, das Elsass und die Nordschweiz, wo sie
 die biblische Rolle der Frau als Retterin des Volkes betonte, als Krankenheilerin auftrat und
